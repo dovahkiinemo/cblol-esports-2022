@@ -1,7 +1,7 @@
-# cblol-esports-2022
+# cblol-esports-2023
 Usando os dados deste dataset, construi(ndo) uma base de dados em SQL apenas da divisão brasileira de League of Legends (CBLOL) e organizando os dados, separando em tabelas diferentes.
 
-* 2022_LoL_esports_match_data_from_OraclesElixir.csv 
+* 2023_LoL_esports_match_data_from_OraclesElixir.csv 
 
   É a base de dados primária, ela engloba os dados crus de todos os jogos, de todas as ligas de League of Legends no ano de 2022.
   
