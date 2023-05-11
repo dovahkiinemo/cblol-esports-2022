@@ -9,7 +9,7 @@ id_campeoes,nome
 23,Galio
 99,Zeri
 97,Yuumi
-102,
+101,
 41,Kennen
 65,Ryze
 37,Kalista
@@ -79,7 +79,7 @@ id_campeoes,nome
 42,LeBlanc
 17,Darius
 89,Viego
-101,Zoe
+100,Zoe
 44,Leona
 6,Aphelios
 79,Thresh
@@ -101,6 +101,3 @@ id_campeoes,nome
 0,Aatrox
 77,Tahm Kench
 95,Yasuo
-100,Ziggs
-11,Bel'Veth
-45,Lillia
